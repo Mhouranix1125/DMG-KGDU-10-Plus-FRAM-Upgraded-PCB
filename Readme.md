@@ -72,7 +72,7 @@ You will need the following materials to complete this build. Feel free to sourc
 | U3 | FM18W08 | 256kbit FRAM | SOIC-28 |
 | U4 | BA6129AF | Battery Reset IC. | Get From Original Cartridge or AliExpress | SOIC-8 |
 | U5 | 74LVC1G32GV,125 | 2-input OR Gate | TSOP-5 |
-| C1, C2, C3, C6, C7 | CL10B104KO8NNNC | 100nF Capacitor | 0603 |
+| C1, C2, C3, C6, C7 | CL10B104KO8NNNC | 0.1uF Capacitor | 0603 |
 | C4, C5 | CL10C150JB8NNNC | 15pF Capacitor | 0603 |
 | R1 | RC0603FR-07330KL | 330K ? Resistor | 0603 |
 | R2 | RC0603FR-0710KL | 10K ? Resistor | 0603 |
