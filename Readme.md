@@ -74,10 +74,10 @@ You will need the following materials to complete this build. Feel free to sourc
 | U5 | 74LVC1G32GV,125 | 2-input OR Gate | TSOP-5 |
 | C1, C2, C3, C6, C7 | CL10B104KO8NNNC | 0.1uF Capacitor | 0603 |
 | C4, C5 | CL10C150JB8NNNC | 15pF Capacitor | 0603 |
-| R1 | RC0603FR-07330KL | 330K ? Resistor | 0603 |
-| R2 | RC0603FR-0710KL | 10K ? Resistor | 0603 |
-| R3 | RC0603FR-071KL | 1K ? Resistor | 0603 |
-| R4 | RMCF0603ZT0R00 | 0K ? Resistor | 0603 |
+| R1 | RC0603FR-07330KL | 330K Ω Resistor | 0603 |
+| R2 | RC0603FR-0710KL | 10K Ω Resistor | 0603 |
+| R3 | RC0603FR-071KL | 1K Ω Resistor | 0603 |
+| R4 | RMCF0603ZT0R00 | 0K Ω Resistor | 0603 |
 | X1 | R26-32.768-12.5-10PPM 20PPM seems to work fine as well. | 32.768 kHz Crystal. | Buy or get from original Cartridge |
 | RTC Crystal | Batt 2025 | BK-6219-TR | CR2025 Battery Retainer | Battery Retainer |
 
