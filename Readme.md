@@ -1,5 +1,5 @@
 
-##### Welcome!
+### Welcome!
 
 First: Shoutout to HDR. His work was extremely vital in completing this project. Take a look at his github and check out some of the cool projects he has worked on!
 
@@ -24,7 +24,7 @@ In simple terms - This project is an upgraded replacement circuit board for game
 3. To learn.
 
 
-How can I get my hands on these boards?
+### How can I get my hands on these boards?
 
 In order to get your hands on these boards, you will need to download this project zip, or clone it using GIT. One of the files labeled DMG-KGDU-10+_Gerber.zip Is the completed output of the circuit board. There are a few websites you can upload this to in order to get these boards made. they are not that expensive. These are the ones I use often. But feel free to use another if you’re comfortable with them. 
 
