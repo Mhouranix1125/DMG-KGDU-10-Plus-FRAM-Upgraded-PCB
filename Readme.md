@@ -57,73 +57,29 @@ o Osh Park is a USA based company. Their online gerber viewer and order process 
 o When you order, choose the option that says: 2 oz copper, 0.8mm thickness and you should be all set. Their ordering process is more streamlined. 
 
 
+You will need the following materials to complete this build. Feel free to source these from wherever you’d like. I’ll throw in some recommendations though. 
 
 
-
-
-
-**BOM:**
+**Bill Of Materials:**
 
 | Reference | Part | Description | Type |
 |-|-|-|-|
 
 
-BILL OF MATERIALS
+| U1 | Original ROM | The lower Right chip. This is the chip that holds your game and is needed from the original board. | 44 Pins |
 
-You will need the following materials to complete this build. Feel free to source these from wherever you’d like. I’ll throw in some recommendations though. 
-
-Reference | Part | Description | Type
-
-
-U1 | Original ROM | The lower Right chip. This is the chip that holds your game and is needed from the original board. | 44 Pins 
-U2
-MBC3
-Memory Bank Controller. You can only get this from an original Cartridge
-LQFP-32
-U3
-FM18W08
-256kbit FRAM
-SOIC-28
-U4
-BA6129AF
-Battery Reset IC. Get From Original Cartridge or AliExpress
-SOIC-8
-U5
-74LVC1G32GV,125
-2-input OR Gate
-TSOP-5
-C1, C2, C3, C6, C7
-CL10B104KO8NNNC
-100nF Capacitor
-0603
-C4, C5
-CL10C150JB8NNNC
-15pF Capacitor
-0603
-R1
-RC0603FR-07330KL
-330K ? Resistor
-0603
-R2
-RC0603FR-0710KL
-10K ? Resistor
-0603
-R3
-RC0603FR-071KL
-1K ? Resistor
-0603
-R4
-RMCF0603ZT0R00
-0K ? Resistor
-0603
-X1
-R26-32.768-12.5-10PPM 20PPM seems to work fine as well.	
-32.768 kHz Crystal. Buy or get from original Cartridge
-RTC Crystal
-Batt 2025
-BK-6219-TR
-CR2025 Battery Retainer
-Battery Retainer
+| U2 | MBC3 | Memory Bank Controller. You can only get this from an original Cartridge | LQFP-32 |
+| U3 | FM18W08 | 256kbit FRAM | SOIC-28 |
+| U4 | BA6129AF | Battery Reset IC. | Get From Original Cartridge or AliExpress | SOIC-8 |
+| U5 | 74LVC1G32GV,125 | 2-input OR Gate | TSOP-5 |
+| C1, C2, C3, C6, C7 | CL10B104KO8NNNC | 100nF Capacitor | 0603 |
+| C4, C5 | CL10C150JB8NNNC | 15pF Capacitor | 0603 |
+| R1 | RC0603FR-07330KL | 330K ? Resistor | 0603 |
+| R2 | RC0603FR-0710KL | 10K ? Resistor | 0603 |
+| R3 | RC0603FR-071KL | 1K ? Resistor | 0603 |
+| R4 | RMCF0603ZT0R00 | 0K ? Resistor | 0603 |
+| X1 | R26-32.768-12.5-10PPM 20PPM seems to work fine as well. | 32.768 kHz Crystal. | Buy or get from original Cartridge |
+| RTC Crystal | Batt 2025 | BK-6219-TR | CR2025 Battery Retainer | Battery Retainer |
 
 
 Some Tips
