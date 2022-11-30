@@ -62,7 +62,7 @@ o When you order, choose the option that says: 2 oz copper, 0.8mm thickness and 
 
 
 
-**Bill Of Materials:**
+**BOM:**
 
 Reference | Part | Description | Type
 |-|-|-|
