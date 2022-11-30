@@ -1,5 +1,5 @@
 
-### Welcome!
+### Welcome! PLEASE READ EVERYTHING!
 
 First: Shoutout to HDR. His work was extremely vital in completing this project. Take a look at his github and check out some of the cool projects he has worked on!
 
