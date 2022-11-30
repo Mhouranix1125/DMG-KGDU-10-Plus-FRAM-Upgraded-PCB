@@ -7,7 +7,7 @@ First: Shoutout to HDR. His work was extremely vital in completing this project.
 
 Second: You do this entire transfer at your own risk. I am not responsible for anything that happens to your game as a result of taking on this project. This is not a beginner task, and should definitely not be taken on as a first-time solder project.  I am not affiliated with any of the companies mentioned here. I do not do this for profit. This is just a neat little thing I decided to work on. 
 
-This project is open source. Users may use this work to iterate, or improve upon it. In doing so, please make sure you follow the Creative Common License linked below below. Out of respect for HDR. Do not be a bad actor. your compliance is expected, and appreciated. DMG-KGDU-10 is an original Nintendo PCB design. I take no credit for that. 
+This project is open source. Users may use this work to iterate, or improve upon it. In doing so, please make sure you follow the Creative Common License linked below. Out of respect for HDR. Do not be a bad actor. your compliance is expected, and appreciated. DMG-KGDU-10 is an original Nintendo PCB design. I take no credit for that. 
 
 [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
