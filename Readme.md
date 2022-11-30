@@ -70,6 +70,8 @@ BILL OF MATERIALS
 You will need the following materials to complete this build. Feel free to source these from wherever you’d like. I’ll throw in some recommendations though. 
 
 Reference | Part | Description | Type
+
+
 U1 | Original ROM | The lower Right chip. This is the chip that holds your game and is needed from the original board. | 44 Pins 
 U2
 MBC3
