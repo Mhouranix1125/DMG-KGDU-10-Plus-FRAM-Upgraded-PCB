@@ -97,4 +97,8 @@ Another way, if you don’t want to cover the pad with solder is Makhos way. Mak
 
 Good luck! Be sure to post your successes, and feel free to ask me any questions!
 
+### Front
+
+![Front](https://github.com/LordxOsmosisx86/DMG-KGDU-10-Plus-FRAM-Upgraded-PCB/blob/main/Board_Front.png)
+
 
