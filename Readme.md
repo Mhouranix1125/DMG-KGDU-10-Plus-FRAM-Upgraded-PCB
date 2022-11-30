@@ -88,7 +88,7 @@ Some Tips
 
 2). Everything is pretty straight forward. Make sure you’re good with working on small components. Capacitors and resistors are not easy to solder if you’re new to this. Solder paste and hot air can help you out a lot with that process. 
 
-3). The battery cell sometimes may not make amazing contact with the large circle pad. This is because it is ever so slightly recessed into the board. This can be fixed in a variety of ways. 
+3). The CR2025 battery may sometimes may not make amazing contact with the large circle pad. This is because it is ever so slightly recessed into the board. This can be fixed in a variety of ways. Super easy, and is pretty much a non issue if you just follow one of the following two ways.
 
 My way of solving this issue is cutting out a thin piece of nickel strip (I try to make it circular in shape, and a bit smaller than the edges of the circle pad. And I lay it down flat and solder it in place before installing the BK-6219-TR retainer. Make sure you solder in the retainer so you can place the battery in from the top side of the board. If you do it upside down, getting the battery in will be annoying because the ROM IC gets in the way. 
 
