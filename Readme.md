@@ -50,7 +50,7 @@ o This company is based in China, the pricing is great, and pricing is similar t
 o Note: If using Elecrow, you will need to send them an email to specify that you want Golden Fingers, and beveled 45° finger chamfered. Just give them your order number after you place it. 
 
 
-3. Osh Park: https://oshpark.com/
+3. ### [Osh Park:](https://oshpark.com/)
 
 o Osh Park is a USA based company. Their online gerber viewer and order process is very easy. But your options are very limited. You can only get your boards in their signature deep purple color, which are quite nice. They’re also the most expensive. Their quality is good. You get less PCB’s for your money, and I noticed that it could still take a while for them to come in.
 
