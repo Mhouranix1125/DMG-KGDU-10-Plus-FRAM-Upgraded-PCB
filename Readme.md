@@ -64,10 +64,7 @@ You will need the following materials to complete this build. Feel free to sourc
 
 | Reference | Part | Description | Type |
 |-|-|-|-|
-
-
 | U1 | Original ROM | The lower Right chip. This is the chip that holds your game and is needed from the original board. | 44 Pins |
-
 | U2 | MBC3 | Memory Bank Controller. You can only get this from an original Cartridge | LQFP-32 |
 | U3 | FM18W08 | 256kbit FRAM | SOIC-28 |
 | U4 | BA6129AF | Battery Reset IC. | Get From Original Cartridge or AliExpress | SOIC-8 |
