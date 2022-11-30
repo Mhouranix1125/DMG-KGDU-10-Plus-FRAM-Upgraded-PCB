@@ -15,7 +15,7 @@ This project is open source. Users may use this work to iterate, or improve upon
 ### What is this project about?
 
 
-In simple terms - This project is an upgraded replacement circuit board for games like Pokémon Gold, Silver, and Crystal. This board utilizes FRAM instead of SRAM so you can save your games without the need for a battery. The battery is still required for the real time clock (RTC) to function. But the good news is you will not lose any save data when the battery does die. More will be explained later. This board was designed with the United States version of the games in mind. I created this board for a few reasons. 
+In simple terms - This project is an upgraded replacement circuit board for games like Pokémon Gold, Silver, and Crystal. This board utilizes FRAM instead of SRAM so you can save your games without the need for a battery. The battery is still required for the real time clock (RTC) to function. But the good news is you will not lose any save data when the battery does die. This also features a battery retainer, so you can place a CR2025 into the slot without the need for solder tabs. This also enables you to use BRAND NAME batteries. The batteries most users buy for their games have those yellow rings around them and are absolutely terrible and volatile. Brand Name batteries are a more reliable choice and will last MUCH longer. This board was designed with the United States version of the games in mind. I created this board for a few reasons. 
 
 1. SRAM is annoying and I hate that my save data was at the mercy of a simple coin cell battery. This fixes that and allows for a very clean and professional looking mod without wires running all over the place.
 
