@@ -41,7 +41,7 @@ Note: PLEASE ORDER THESE BOARDS WITH THE FOLLOWING SPECIFICATIONS. IF YOU DO NOT
 * Golden Fingers: Yes 
 * 45° finger chamfered
 
-1. [JLCPCB:](https://jlcpcb.com/)
+1. # [JLCPCB:](https://jlcpcb.com/)
 
 o This company is based in China, and has very good pricing on boards so long as you choose either green or purple. I find the best bang for your buck to be 10 boards as it's not that much more expensive than 5.
 
