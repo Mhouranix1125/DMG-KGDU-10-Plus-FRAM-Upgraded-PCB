@@ -41,18 +41,18 @@ Note: PLEASE ORDER THESE BOARDS WITH THE FOLLOWING SPECIFICATIONS. IF YOU DO NOT
 * Golden Fingers: Yes 
 * 45° finger chamfered
 
-1. # [JLCPCB:](https://jlcpcb.com/)
+1.# [JLCPCB:](https://jlcpcb.com/)
 
 o This company is based in China, and has very good pricing on boards so long as you choose either green or purple. I find the best bang for your buck to be 10 boards as it's not that much more expensive than 5.
 
-2. # [Elecrow:](https://www.elecrow.com/)
+2.# [Elecrow:](https://www.elecrow.com/)
 
 o This company is based in China, the pricing is great, and pricing is similar to JLCPCB and seems consistent across all colors. So I love these guys quite a bit. 
 
 o Note: If using Elecrow, you will need to send them an email to specify that you want Golden Fingers, and beveled 45° finger chamfered. Just give them your order number after you place it. 
 
 
-3. # [Osh Park:]([https://oshpark.com/](https://oshpark.com/shared_projects/EM2j1Td4))
+3.# [Osh Park:]([https://oshpark.com/](https://oshpark.com/shared_projects/EM2j1Td4)
 
 o Osh Park is a USA based company. Their online gerber viewer and order process is very easy. But your options are very limited. You can only get your boards in their signature deep purple color, which are quite nice. They’re also the most expensive. Their quality is good. You get less PCB’s for your money, and I noticed that it could still take a while for them to come in.
 
