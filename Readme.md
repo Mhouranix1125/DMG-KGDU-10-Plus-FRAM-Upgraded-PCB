@@ -57,7 +57,7 @@ o Osh Park is a USA based company. Their online gerber viewer and order process 
 o When you order, choose the option that says: 2 oz copper, 0.8mm thickness and you should be all set. Their ordering process is more streamlined. 
 
 
-You will need the following materials to complete this build. Feel free to source these from wherever you’d like. I’ll throw in some recommendations though. 
+You will need the following materials to complete this build. Feel free to source these from wherever you’d like. I recommend [Digikey](https://digikey.com), or [Mouser](https://mouser.com) for most parts. just make sure the sizes for the capacitors and resistors are correct. Double check everything. 
 
 
 **Bill Of Materials:**
