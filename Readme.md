@@ -8,7 +8,7 @@ Second: You do this entire transfer at your own risk. I am not responsible for a
 
 This project is open source. Users may use this work to iterate, or improve upon it. In doing so, please make sure you follow the Creative Common License linked below below. Out of respect for HDR. Do not be a bad actor. your compliance is expected, and appreciated. DMG-KGDU-10 is an original Nintendo PCB design. I take no credit for that. 
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+[](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 What is this project about?
 
