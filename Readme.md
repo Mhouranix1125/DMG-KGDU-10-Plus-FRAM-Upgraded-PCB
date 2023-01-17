@@ -107,4 +107,13 @@ Good luck! Be sure to post your successes, and feel free to ask me any questions
 
 ![Back](https://github.com/LordxOsmosisx86/DMG-KGDU-10-Plus-FRAM-Upgraded-PCB/blob/main/Board_Back.png)
 
+### Changes
+
+Rev 1.1 
+- Removed R1 Jumper Resistor. It was not needed.
+- Added Text for some parts to help with clarity. The BOM should still be the ultimate source for info. 
+- Moved a few capacitors,
+- Moved R3 so it would be easier to manage once the battery retainer is soldered in if need be.
+- General cleanup. 
+
 
