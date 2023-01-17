@@ -77,7 +77,6 @@ You will need the following materials to complete this build. Feel free to sourc
 | R1 | RC0603FR-07330KL | 330K Ω Resistor | 0603 |
 | R2 | RC0603FR-0710KL | 10K Ω Resistor | 0603 |
 | R3 | RC0603FR-071KL | 1K Ω Resistor | 0603 |
-| R4 | RMCF0603ZT0R00 | 0K Ω Resistor | 0603 |
 | X1 | R26-32.768-12.5-10PPM 20PPM seems to work fine as well. | 32.768 kHz Crystal. | Buy or get from original Cartridge |
 | RTC Crystal | Batt 2025 | BK-6219-TR | CR2025 Battery Retainer | Battery Retainer |
 
@@ -112,7 +111,7 @@ Good luck! Be sure to post your successes, and feel free to ask me any questions
 Rev 1.1 
 - Removed R1 Jumper Resistor. It was not needed.
 - Added Text for some parts to help with clarity. The BOM should still be the ultimate source for info. 
-- Moved a few capacitors,
+- Moved a few capacitors around so they're easier to manage.
 - Moved R3 so it would be easier to manage once the battery retainer is soldered in if need be.
 - General cleanup. 
 
